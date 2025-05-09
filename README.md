@@ -46,7 +46,7 @@ All visuals are connected through filters for a fully interactive experience.
 
 ##File
 
-`Hospitality KPI dashboard.pbix` – Main Power BI file (viewable in Power BI Desktop)
+`[Hospitality KPI dashboard.pbix](https://github.com/Athira2218/Hospitality-KPI-Dashboard/blob/main/Hospitality%20KPI%20dashboard.pbix)` – Main Power BI file (viewable in Power BI Desktop)
 
 
 ## What I Learned
