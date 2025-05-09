@@ -44,6 +44,10 @@ All visuals are connected through filters for a fully interactive experience.
 - Tooltip Customization
 - UX Design Principles for Dashboards
 
+##File
+
+`Hospitality KPI dashboard.pbix` – Main Power BI file (viewable in Power BI Desktop)
+
 
 ## What I Learned
 
