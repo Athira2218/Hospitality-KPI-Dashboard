@@ -57,4 +57,8 @@ It was also a valuable opportunity to interpret partially guided instructions an
 
 ---
 
+#Dashboard preview
+
+![Dashboard Preview](Dashboard.preview.png)
+
 This project is part of my analytics portfolio and intended for hiring or recruiter review.
